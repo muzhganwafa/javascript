@@ -7,7 +7,7 @@ console.log("Month:", currentMonth);
 
 const bookTitles = ["Black Milk", "The Bastard of Istanbul", "The lost Bookshop"];
 const totalPages = [200, 320, 280];
-const pagesRead = [200, 180, 80];
+const pagesRead = [200, 220, 80];
 
 console.log("\n--- Book Details ---");
 for (let i = 0; i < bookTitles.length; i++) {
